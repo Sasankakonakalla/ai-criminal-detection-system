@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+known_embeddings.pkl
+faces_db/
+logs/
+evidence/
+videos/
+
+test_email.py
+.DS_Store
